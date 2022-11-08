@@ -9,3 +9,5 @@ inputs their intials and clicks done.
 ![Screenshot](./assets/correct.png)
 ![Screenshot](./assets/wrong.png)
 ![Screenshot](./assets/Highscore.png)
+
+Thank you!
